@@ -2,8 +2,6 @@
 
 I love teaching, sharing and talking at conferences.
 
-In this page you'll find references to my past or upcoming talks about Swift & stuff.
-
 If you’re interested in having me speak at a conference you are organizing, please send me a message at <olivier@halligon.net> or join me [on twitter](https://twitter.com/aligatr). Thanks!
 
 # Past & Upcoming Talks

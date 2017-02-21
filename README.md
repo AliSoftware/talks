@@ -8,17 +8,17 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Location          | Date              | Event                       | Slides/Videos    |
 |-------------------|-------------------|-----------------------------|------------------|
-| Paris, France     | Sept 23, 2016     | [FrenchKit][4]              | [🖼][5] [🎥][6] |
 | Logroño, Spain    | Sept 18, 2016     | [NSSpain][1]                | [🖼][2] |
-| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][7]              | - |
-| Budapest, Hungary | April 25-28, 2017 | NSBudapest / [CraftConf][8] | - |
+| Paris, France     | Sept 23, 2016     | [FrenchKit][3]              | [🖼][4] [🎥][5] |
+| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][6]              | - |
+| Budapest, Hungary | April 25-28, 2017 | NSBudapest / [CraftConf][7] | - |
 
 [1]: http://2016.nsspain.com
 [2]: https://speakerdeck.com/alisoftware/mixins-over-inheritance
 
-[4]: http://frenchkit.fr
-[5]: https://speakerdeck.com/alisoftware/mixins-over-inheritance-frenchkit-16
-[6]: https://www.youtube.com/watch?v=EtUcxcZeSpU
+[3]: http://frenchkit.fr
+[4]: https://speakerdeck.com/alisoftware/mixins-over-inheritance-frenchkit-16
+[5]: https://www.youtube.com/watch?v=EtUcxcZeSpU
 
-[7]: http://appdevcon.nl
-[8]: https://craft-conf.com
+[6]: http://appdevcon.nl
+[7]: https://craft-conf.com

@@ -18,7 +18,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 [3]: http://frenchkit.fr
 [4]: https://speakerdeck.com/alisoftware/mixins-over-inheritance-frenchkit-16
-[5]: https://www.youtube.com/watch?v=EtUcxcZeSpU
+[5]: https://youtu.be/BSn4jlunn4I
 
 [6]: http://appdevcon.nl
 [7]: https://www.meetup.com/NSBudapest/

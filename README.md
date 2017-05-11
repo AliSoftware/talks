@@ -6,12 +6,12 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 # Past & Upcoming Talks
 
-| Location          | Date              | Event                              | Topic            | Slides/Videos     |
-|-------------------|-------------------|------------------------------------|------------------|-------------------|
-| Logroño, Spain    | Sept 18, 2016     | [NSSpain][1e]                      | Mixins           | [🖼][1s]          |
-| Paris, France     | Sept 23, 2016     | [FrenchKit][2e]                    | Mixins           | [🖼][2s] [🎥][2v] |
-| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins           | [🖼][3s]          |
-| Budapest, Hungary | April 25-28, 2017 | [NSBudapest][4e] / [CraftConf][4f] | Code Generation  | - |
+| Location          | Date              | Event                              | Topic                       | Slides/Videos     |
+|-------------------|-------------------|------------------------------------|-----------------------------|-------------------|
+| Logroño, Spain    | Sept 18, 2016     | [NSSpain][1e]                      | Mixins                      | [🖼][1s]          |
+| Paris, France     | Sept 23, 2016     | [FrenchKit][2e]                    | Mixins                      | [🖼][2s] [🎥][2v] |
+| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins                      | [🖼][3s]          |
+| Budapest, Hungary | April 25-28, 2017 | [NSBudapest][4e] / [CraftConf][4f] | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
 | Berlin, Germany   | May 14-17, 2017   | [UIKonf][5e]                       | Code Generation  | - |
 
 [1e]: http://2016.nsspain.com
@@ -26,5 +26,8 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 [4e]: https://www.meetup.com/NSBudapest/events/238405994/
 [4f]: https://craft-conf.com
+[4s]: https://speakerdeck.com/alisoftware/code-generation-in-swift-live-demo-nsbudapest-04-dot-2017
+[4v]: http://www.ustream.tv/recorded/103135632
+[4c]: https://github.com/AliSoftware/CodeGenDemo
 
 [5e]: http://www.uikonf.com

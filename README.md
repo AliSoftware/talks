@@ -8,9 +8,9 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Location          | Date              | Event                              | Topic                       | Slides/Videos     |
 |-------------------|-------------------|------------------------------------|-----------------------------|-------------------|
-| Logroño, Spain    | Sept 18, 2016     | [NSSpain][1e]                      | Mixins                      | [🖼][1s]          |
-| Paris, France     | Sept 23, 2016     | [FrenchKit][2e]                    | Mixins                      | [🖼][2s] [🎥][2v] |
-| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins                      | [🖼][3s]          |
+| Logroño, Spain    | Sept 18, 2016     | [NSSpain][1e]                      | Mixins over Inheritance     | [🖼][1s]          |
+| Paris, France     | Sept 23, 2016     | [FrenchKit][2e]                    | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
+| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins over Inheritance     | [🖼][3s]          |
 | Budapest, Hungary | April 25-28, 2017 | [NSBudapest][4e] / [CraftConf][4f] | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
 | Berlin, Germany   | May 14-17, 2017   | [UIKonf][5e]                       | Code Generation  | - |
 

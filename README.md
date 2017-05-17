@@ -12,7 +12,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 | Paris, France     | Sept 23, 2016     | [FrenchKit][2e]                    | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
 | Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins over Inheritance     | [🖼][3s]          |
 | Budapest, Hungary | April 25-28, 2017 | [NSBudapest][4e] / [CraftConf][4f] | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
-| Berlin, Germany   | May 14-17, 2017   | [UIKonf][5e]                       | Code Generation  | - |
+| Berlin, Germany   | May 14-17, 2017   | [UIKonf][5e]                       | Code Generation  | [🖼][5s][📑][5c] |
 
 [1e]: http://2016.nsspain.com
 [1s]: https://speakerdeck.com/alisoftware/mixins-over-inheritance
@@ -31,3 +31,5 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [4c]: https://github.com/AliSoftware/CodeGenDemo
 
 [5e]: http://www.uikonf.com
+[5s]: https://speakerdeck.com/alisoftware/code-generation-in-swift-uikonf-17
+[5c]: https://gist.github.com/AliSoftware/c2e1bf8c7fb0f5e742609c9516780123

@@ -13,7 +13,8 @@ If you’re interested in having me speak at a conference you are organizing, pl
 | Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins over Inheritance     | [🖼][3s]          |
 | Budapest, Hungary | April 25-28, 2017 | [NSBudapest][4e] / [CraftConf][4f] | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
 | Berlin, Germany   | May 14-17, 2017   | [UIKonf][5e]                       | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
-| Paris, France     | Sept 22-23, 2017  | [FrenchKit][2e]                    | Code Generation (LT ⚡️ + classroom) | |
+| Paris, France     | Sept 22-23, 2017  | [FrenchKit][2e]                    | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s]                 |
+| Paris, France     | Sept 22-23, 2017  | [FrenchKit][2e]                    | Mastering Code Generation (Classroom) | [📑][7c] (Tutorial) |
 
 [1e]: http://2016.nsspain.com
 [1s]: https://speakerdeck.com/alisoftware/mixins-over-inheritance
@@ -35,3 +36,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [5s]: https://speakerdeck.com/alisoftware/code-generation-in-swift-uikonf-17
 [5c]: https://gist.github.com/AliSoftware/c2e1bf8c7fb0f5e742609c9516780123
 [5v]: https://youtu.be/x_viZfIe8tY
+
+[6s]: https://speakerdeck.com/alisoftware/dont-worry-be-lazy-swiftgen-sourcery-and-gyro
+
+[7c]: https://github.com/FrenchKit/Mastering-code-generation-Classroom

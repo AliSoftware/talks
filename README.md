@@ -4,17 +4,27 @@ I love teaching, sharing and talking at conferences.
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message at <olivier@halligon.net> or join me [on twitter](https://twitter.com/aligatr). Thanks!
 
-# Past & Upcoming Talks
+# 2016
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
 | [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
 | [FrenchKit][2e]                    | Paris, France     | Sept 23, 2016     | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
+
+# 2017
+
+| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
+|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
 | [AppDevCon][3e]                    | Amsterdam, NL     | March 16-17, 2017 | Mixins over Inheritance     | [🖼][3s]          |
 | [NSBudapest][4e] / [CraftConf][4f] | Budapest, Hungary | April 25-28, 2017 | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
 | [UIKonf][5e]                       | Berlin, Germany   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
 | [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
 | [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [📑 (Tutorial)][7c] |
+
+# 2018
+
+| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
+|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
 | [AppsConf.ru][8e]                  | Moscow, Russia    | Oct 08-09, 2018   | CodeGen all the things!     | - |
 | [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your whole iOS Projects | - |
 

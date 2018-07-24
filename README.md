@@ -6,15 +6,17 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 # Past & Upcoming Talks
 
-| Location          | Date              | Event                              | Topic                       | Slides/Videos     |
-|-------------------|-------------------|------------------------------------|-----------------------------|-------------------|
-| Logroño, Spain    | Sept 18, 2016     | [NSSpain][1e]                      | Mixins over Inheritance     | [🖼][1s]          |
-| Paris, France     | Sept 23, 2016     | [FrenchKit][2e]                    | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
-| Amsterdam, NL     | March 16-17, 2017 | [AppDevCon][3e]                    | Mixins over Inheritance     | [🖼][3s]          |
-| Budapest, Hungary | April 25-28, 2017 | [NSBudapest][4e] / [CraftConf][4f] | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
-| Berlin, Germany   | May 14-17, 2017   | [UIKonf][5e]                       | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
-| Paris, France     | Sept 22-23, 2017  | [FrenchKit][2e]                    | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
-| Paris, France     | Sept 22-23, 2017  | [FrenchKit][2e]                    | Mastering Code Generation (Classroom) | [📑][7c] (Tutorial) |
+| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
+|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
+| [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
+| [FrenchKit][2e]                    | Paris, France     | Sept 23, 2016     | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
+| [AppDevCon][3e]                    | Amsterdam, NL     | March 16-17, 2017 | Mixins over Inheritance     | [🖼][3s]          |
+| [NSBudapest][4e] / [CraftConf][4f] | Budapest, Hungary | April 25-28, 2017 | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
+| [UIKonf][5e]                       | Berlin, Germany   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
+| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
+| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [📑 (Tutorial)][7c] |
+| [AppsConf.ru][8e]                  | Moscow, Russia    | Oct 08-09, 2018   | CodeGen all the things!     | - |
+| [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your whole iOS Projects | - |
 
 [1e]: http://2016.nsspain.com
 [1s]: https://speakerdeck.com/alisoftware/mixins-over-inheritance
@@ -41,3 +43,6 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [6v]: https://youtu.be/3i1k6H2jzVQ
 
 [7c]: https://github.com/FrenchKit/Mastering-code-generation-Classroom
+
+[8e]: http://appsconf.ru/2018
+[9e]: https://devfest2018-site.firebaseapp.com

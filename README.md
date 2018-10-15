@@ -4,12 +4,11 @@ I love teaching, sharing and talking at conferences.
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message at <olivier@halligon.net> or join me [on twitter](https://twitter.com/aligatr). Thanks!
 
-# 2016
+# 2018
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
-| [FrenchKit][2e]                    | Paris, France     | Sept 23, 2016     | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
+| [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your whole iOS Projects | - |
 
 # 2017
 
@@ -21,12 +20,13 @@ If you’re interested in having me speak at a conference you are organizing, pl
 | [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
 | [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [📑 (Tutorial)][7c] |
 
-# 2018
+# 2016
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [AppsConf.ru][8e]                  | Moscow, Russia    | Oct 08-09, 2018   | CodeGen all the things!     | - |
-| [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your whole iOS Projects | - |
+| [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
+| [FrenchKit][2e]                    | Paris, France     | Sept 23, 2016     | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
+
 
 [1e]: http://2016.nsspain.com
 [1s]: https://speakerdeck.com/alisoftware/mixins-over-inheritance

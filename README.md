@@ -8,7 +8,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [http://swiftaveiro.xyz][10e]                      | Aveiro, Portugal    | June 20-21, 2019   | Code Generation Workshop | - |
+| [Swift Aveiro][10e]                      | Aveiro, Portugal    | June 20-21, 2019   | Code Generation Workshop | - |
 
 # 2018
 

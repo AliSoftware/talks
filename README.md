@@ -4,11 +4,17 @@ I love teaching, sharing and talking at conferences.
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message at <olivier@halligon.net> or join me [on twitter](https://twitter.com/aligatr). Thanks!
 
+# 2019
+
+| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
+|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
+| [http://swiftaveiro.xyz][10e]                      | Aveiro, Portugal    | June 20-21, 2019   | Code Generation Workshop | - |
+
 # 2018
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your whole iOS Projects | - |
+| [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your Mobile Projects from A to Z | [🖼][9s] |
 
 # 2017
 
@@ -55,4 +61,8 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [7c]: https://github.com/FrenchKit/Mastering-code-generation-Classroom
 
 [8e]: http://appsconf.ru/2018
+
 [9e]: https://devfest2018-site.firebaseapp.com
+[9s]: https://speakerdeck.com/alisoftware/automate-your-mobile-projects-from-a-to-z
+
+[10e]: http://swiftaveiro.xyz

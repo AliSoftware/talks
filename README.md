@@ -8,7 +8,8 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [Swift Aveiro][10e]                      | Aveiro, Portugal    | June 20-21, 2019   | Code Generation Workshop | - |
+| [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | TBA |
+| [Swift Aveiro][10e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [Repo][10r] |
 
 # 2018
 
@@ -66,3 +67,4 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [9s]: https://speakerdeck.com/alisoftware/automate-your-mobile-projects-from-a-to-z
 
 [10e]: http://swiftaveiro.xyz
+[10r]: https://github.com/AliSoftware/CodeGen-Workshop

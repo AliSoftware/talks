@@ -8,31 +8,32 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | TBA |
-| [Swift Aveiro][10e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [Repo][10r] |
+| [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | [🖼][10s] |
+| [Swift Aveiro][9e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [Repo][9r] |
+
 
 # 2018
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [DevFest][9e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your Mobile Projects from A to Z | [🖼][9s] |
+| [DevFest][8e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your Mobile Projects from A to Z | [🖼][8s] |
 
 # 2017
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [AppDevCon][3e]                    | Amsterdam, NL     | March 16-17, 2017 | Mixins over Inheritance     | [🖼][3s]          |
-| [NSBudapest][4e] / [CraftConf][4f] | Budapest, Hungary | April 25-28, 2017 | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
-| [UIKonf][5e]                       | Berlin, Germany   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
-| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
 | [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [📑 (Tutorial)][7c] |
+| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
+| [UIKonf][5e]                       | Berlin, Germany   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
+| [NSBudapest][4e] / [CraftConf][4f] | Budapest, Hungary | April 25-28, 2017 | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
+| [AppDevCon][3e]                    | Amsterdam, NL     | March 16-17, 2017 | Mixins over Inheritance     | [🖼][3s]          |
 
 # 2016
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
 | [FrenchKit][2e]                    | Paris, France     | Sept 23, 2016     | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
+| [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
 
 
 [1e]: http://2016.nsspain.com
@@ -61,10 +62,10 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 [7c]: https://github.com/FrenchKit/Mastering-code-generation-Classroom
 
-[8e]: http://appsconf.ru/2018
+[8e]: https://devfest2018-site.firebaseapp.com
+[8s]: https://speakerdeck.com/alisoftware/automate-your-mobile-projects-from-a-to-z
 
-[9e]: https://devfest2018-site.firebaseapp.com
-[9s]: https://speakerdeck.com/alisoftware/automate-your-mobile-projects-from-a-to-z
+[9e]: http://swiftaveiro.xyz
+[9r]: https://github.com/AliSoftware/CodeGen-Workshop
 
-[10e]: http://swiftaveiro.xyz
-[10r]: https://github.com/AliSoftware/CodeGen-Workshop
+[10s]: https://speakerdeck.com/alisoftware/and-thats-a-wrap

@@ -9,7 +9,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
 | [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | [🖼][10s] |
-| [Swift Aveiro][9e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [Repo][9r] |
+| [Swift Aveiro][9e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [💻][9r] |
 
 
 # 2018
@@ -22,7 +22,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [📑 (Tutorial)][7c] |
+| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [💻][7c] |
 | [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
 | [UIKonf][5e]                       | Berlin, Germany   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
 | [NSBudapest][4e] / [CraftConf][4f] | Budapest, Hungary | April 25-28, 2017 | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |

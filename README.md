@@ -8,7 +8,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Event                              | Location          | Date              | Topic                       | Slides/Videos     |
 |------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | [🖼][10s] |
+| [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | [🖼][10s] [🎥][10v] |
 | [Swift Aveiro][9e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [💻][9r] |
 
 
@@ -69,3 +69,4 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [9r]: https://github.com/AliSoftware/CodeGen-Workshop
 
 [10s]: https://speakerdeck.com/alisoftware/and-thats-a-wrap
+[10v]: https://youtu.be/cw95S8gwkEU

@@ -6,40 +6,40 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 # 2020
 
-| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
-|------------------------------------|-------------------|-------------------|-----------------------------|------------------
-| [try! Swift][11e]                   | Tokyo, Japan      | March 18-20, 2020 | TBD                         |  |
+| Event               | Location        | Date              | Topic                       | Slides/Videos |
+|---------------------|-----------------|-------------------|-----------------------------|---------------|
+| [try! Swift][11e]   | Tokyo, Japan 🇯🇵 | March 18-20, 2020 | TBD                         |  |
 
 # 2019
 
-| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
-|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [FrenchKit][2e]                    | Paris, France     | Oct 7-8, 2019     | Swift's Property Wrappers   | [🖼][10s] [🎥][10v] |
-| [Swift Aveiro][9e]                | Aveiro, Portugal  | June 20-21, 2019  | Code Generation Workshop    | [💻][9r] |
+| Event               | Location            | Date              | Topic                       | Slides/Videos     |
+|---------------------|---------------------|-------------------|-----------------------------|-------------------|
+| [FrenchKit][2e]     | Paris, France 🇫🇷    | Oct 7-8, 2019     | Swift's Property Wrappers   | [🖼][10s] [🎥][10v] |
+| [Swift Aveiro][9e]  | Aveiro, Portugal 🇵🇹 | June 20-21, 2019  | Code Generation Workshop    | [💻][9r] |
 
 
 # 2018
 
-| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
-|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [DevFest][8e]                      | Nantes, France    | Oct 18-19, 2018   | Automate your Mobile Projects from A to Z | [🖼][8s] |
+| Event              | Location          | Date            | Topic                                     | Slides/Videos |
+|--------------------|-------------------|-----------------|-------------------------------------------|-----------|
+| [DevFest][8e]      | Nantes, France 🇫🇷 | Oct 18-19, 2018 | Automate your Mobile Projects from A to Z | [🖼][8s] |
 
 # 2017
 
-| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
-|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [💻][7c] |
-| [FrenchKit][2e]                    | Paris, France     | Sept 22-23, 2017  | Don't Worry, Be Lazy (Code Generation LT)   | [🖼][6s] [🎥][6v] |
-| [UIKonf][5e]                       | Berlin, Germany   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
-| [NSBudapest][4e] / [CraftConf][4f] | Budapest, Hungary | April 25-28, 2017 | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
-| [AppDevCon][3e]                    | Amsterdam, NL     | March 16-17, 2017 | Mixins over Inheritance     | [🖼][3s]          |
+| Event              | Location             | Date              | Topic                       | Slides/Videos     |
+|--------------------|----------------------|-------------------|-----------------------------|-------------------|
+| [FrenchKit][2e]    | Paris, France 🇫🇷     | Sept 22-23, 2017  | Mastering Code Generation (Classroom) | [💻][7c] |
+| [FrenchKit][2e]    | Paris, France 🇫🇷     | Sept 22-23, 2017  | Don't Worry, Be Lazy<br/>(Code Generation LT⚡️) | [🖼][6s] [🎥][6v] |
+| [UIKonf][5e]       | Berlin, Germany 🇩🇪   | May 14-17, 2017   | Code Generation             | [🖼][5s] [🎥][5v] [📑][5c] |
+| [NSBudapest][4e]   | Budapest, Hungary 🇭🇺 | Apr 25-28, 2017   | Code Generation: Live Demo  | [🖼][4s] [🎥][4v] [📑][4c] |
+| [AppDevCon][3e]    | Amsterdam, NL 🇳🇱     | March 16-17, 2017 | Mixins over Inheritance     | [🖼][3s] |
 
 # 2016
 
-| Event                              | Location          | Date              | Topic                       | Slides/Videos     |
-|------------------------------------|-------------------|-------------------|-----------------------------|-------------------|
-| [FrenchKit][2e]                    | Paris, France     | Sept 23, 2016     | Mixins over Inheritance     | [🖼][2s] [🎥][2v] |
-| [NSSpain][1e]                      | Logroño, Spain    | Sept 18, 2016     | Mixins over Inheritance     | [🖼][1s]          |
+| Event              | Location          | Date          | Topic                    | Slides/Videos     |
+|--------------------|-------------------|---------------|--------------------------|-------------------|
+| [FrenchKit][2e]    | Paris, France 🇫🇷  | Sept 23, 2016 | Mixins over Inheritance  | [🖼][2s] [🎥][2v] |
+| [NSSpain][1e]      | Logroño, Spain 🇪🇸 | Sept 18, 2016 | Mixins over Inheritance  | [🖼][1s]          |
 
 
 [1e]: http://2016.nsspain.com
@@ -53,7 +53,6 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [3s]: https://speakerdeck.com/alisoftware/mixins-over-inheritance-appdevcon-17
 
 [4e]: https://www.meetup.com/NSBudapest/events/238405994/
-[4f]: https://craft-conf.com
 [4s]: https://speakerdeck.com/alisoftware/code-generation-in-swift-live-demo-nsbudapest-04-dot-2017
 [4v]: http://www.ustream.tv/recorded/103135632
 [4c]: https://github.com/AliSoftware/CodeGenDemo

@@ -6,9 +6,9 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 # 2020
 
-| Event               | Location        | Date              | Topic                       | Slides/Videos |
-|---------------------|-----------------|-------------------|-----------------------------|---------------|
-| [try! Swift][11e]   | Tokyo, Japan 🇯🇵 | March 18-20, 2020 | TBD                         |  |
+| Event               | Location          | Date                | Topic                          | Slides/Videos      |
+|---------------------|-------------------|---------------------|--------------------------------|--------------------|
+| ~[try! Swift][11e]~ | ~Tokyo, Japan 🇯🇵~ | ~March 18-20, 2020~ | ~Pattern Matching Superpowers~ | ~[Cancelled][11x]~ |
 
 # 2019
 
@@ -77,3 +77,4 @@ If you’re interested in having me speak at a conference you are organizing, pl
 [10v]: https://youtu.be/cw95S8gwkEU
 
 [11e]: https://www.tryswift.co/events/2020/tokyo/en/
+[11x]: https://tryswifttokyo.hatenablog.com/entry/2020/02/13/145412
